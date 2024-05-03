@@ -24,10 +24,10 @@ main {
 
 img {
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     display: block;
-    margin: 0 auto 20px;
+    margin: 20px auto 20px;
 }
 
 a {
